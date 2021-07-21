@@ -761,17 +761,8 @@ img {
   margin: 0 auto 15px;
   width: 340px;
   height: 207px;
-  /* background: contain no-repeat; */
   object-fit: contain;
 }
-
-/* .product__img__edited {
-  display: block;
-  margin: 0 auto 15px;
-  width: 340px;
-  height: 207px;
-  object-fit: contain;
-} */
 
 .product__img__drinks {
   display: block;
@@ -1141,9 +1132,7 @@ img {
 
 /* logo start */
 .logo__img {
-  /* width: 127px; */
   height: 50px;
-  /* background: contain no-repeat; */
   object-fit: contain;
 }
 /* logo end */
@@ -1416,8 +1405,6 @@ img {
   background-size: cover;
   width: 519px;
   height: 332px;
-  /* right: -350px; */
-  /* bottom: -100px; */
 }
 
 .sectoin-contacts__title {
